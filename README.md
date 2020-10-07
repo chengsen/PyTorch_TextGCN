@@ -6,7 +6,7 @@ Tested on the 20NG/R8/R52/Ohsumed/MR data set, the code on this repository can a
 
 ## Benchmark
 
-| dataset       | 20NG | R8 | R52 | Ohsumed | MR   |
+| dataset       | 20NG | R8 | R52 | Ohsumed | MR  |
 |---------------|----------|------|--------|--------|--------|
 | TextGCN(official) | 0.8634    | 0.9707 | 0.9356   | 0.6836   | 0.7674   |
 | This repo.    | 0.8618     | 0.9704 | 0.9354   | 0.6827  | 0.7643  |
